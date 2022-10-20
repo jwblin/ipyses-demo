@@ -1,3 +1,3 @@
 # ipyses-demo
 
-Demo Jupyter notebook.
+Demonstrate a Jupyter notebook.
